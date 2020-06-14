@@ -1,12 +1,12 @@
 This repository contains solutions for all code programming assignment I solved as part of the ["Algorithms, Part I"](https://www.coursera.org/learn/algorithms-part1) cource offered by Princeton University at Courcera.
 
-## Briefly about this cource
+## About this cource
 
 <em>
 This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.
 </em>
 
-## Assignment List
+## Assignments List
 
 ##### **1. Percolation**  
 **Goal:** Write a program to estimate the value of the percolation threshold via Monte Carlo simulation. [Check out the detailed specification.](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
